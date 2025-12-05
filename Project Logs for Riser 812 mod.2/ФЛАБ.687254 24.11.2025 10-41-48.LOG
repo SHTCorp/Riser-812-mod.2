@@ -1,0 +1,52 @@
+Added Component: Designator=X1(123053-606050-HF)
+Add component (AddParameter): Name = "Autor"; Value = "Admin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact"; Value = "60"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "1 А"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "08-11-2025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "480"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BEIJIDA ELECTRONICS TECHNOLOGY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "123053-606050-HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.5 мм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Board-to-Board"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR73_2 Pin=X1-2
+Added Pin To Net: NetName=NetR82_1 Pin=X1-3
+Added Pin To Net: NetName=NetDD3_9 Pin=X1-4
+Added Pin To Net: NetName=GND Pin=X1-7
+Added Pin To Net: NetName=SFP TX INT_N Pin=X1-8
+Added Pin To Net: NetName=SFP TX INT_P Pin=X1-9
+Added Pin To Net: NetName=SFP RX INT_N Pin=X1-10
+Added Pin To Net: NetName=SFP RX INT_P Pin=X1-11
+Added Pin To Net: NetName=GND Pin=X1-12
+Added Pin To Net: NetName=Buffer PCIE CLK_P Pin=X1-13
+Added Pin To Net: NetName=Buffer PCIE CLK_N Pin=X1-14
+Added Pin To Net: NetName=GND Pin=X1-15
+Added Pin To Net: NetName=USB 2.0_N Pin=X1-16
+Added Pin To Net: NetName=USB 2.0_P Pin=X1-17
+Added Pin To Net: NetName=GND Pin=X1-18
+Added Pin To Net: NetName=NetD1_5 Pin=X1-19
+Added Pin To Net: NetName=NetR8_1 Pin=X1-26
+Added Pin To Net: NetName=NetR18_1 Pin=X1-27
+Added Pin To Net: NetName=NetSB1_1 Pin=X1-28
+Added Pin To Net: NetName=NetR67_2 Pin=X1-32
+Added Pin To Net: NetName=NetR83_1 Pin=X1-33
+Added Pin To Net: NetName=NetDD3_8 Pin=X1-34
+Added Pin To Net: NetName=GND Pin=X1-37
+Added Pin To Net: NetName=Wi-Fi PCIe TX int_N Pin=X1-38
+Added Pin To Net: NetName=Wi-Fi PCIe TX int_P Pin=X1-39
+Added Pin To Net: NetName=Wi-Fi PCIe RX_N Pin=X1-40
+Added Pin To Net: NetName=Wi-Fi PCIe RX_P Pin=X1-41
+Added Pin To Net: NetName=GND Pin=X1-42
+Added Pin To Net: NetName=GND Pin=X1-45
+Added Pin To Net: NetName=NetDD1_36 Pin=X1-46
+Added Pin To Net: NetName=NetDD1_34 Pin=X1-47
+Added Pin To Net: NetName=GND Pin=X1-48
+Added Pin To Net: NetName=NetD1_6 Pin=X1-49
+Added Pin To Net: NetName=NetC48_1 Pin=X1-50
+Added Pin To Net: NetName=NetDD1_16 Pin=X1-51
+Added Pin To Net: NetName=GND Pin=X1-52
+Added Pin To Net: NetName=NetDD1_35 Pin=X1-56
+Added Pin To Net: NetName=NetDD1_16 Pin=X1-57
+Added Pin To Net: NetName=NetC48_1 Pin=X1-58
+Added Member To Class: ClassName=External interface Member=Component R82 STD_RES
+Added Member To Class: ClassName=Motherboard connector Member=Component X1 123053-606050-HF

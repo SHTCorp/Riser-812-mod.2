@@ -1,0 +1,107 @@
+Removed Member From Class: ClassName=Power Member=C54
+Removed Member From Class: ClassName=M.2 Wi-Fi Member=R100
+Change Component Designator: OldDesignator=C74 NewDesignator=C76
+Change Component Designator: OldDesignator=C75 NewDesignator=C77
+Change Component Designator: OldDesignator=C76 NewDesignator=C80
+Change Component Designator: OldDesignator=C77 NewDesignator=C81
+Change Component Designator: OldDesignator=C78 NewDesignator=C82
+Change Component Designator: OldDesignator=C79 NewDesignator=C83
+Change Component Designator: OldDesignator=C80 NewDesignator=C84
+Change Component Designator: OldDesignator=C81 NewDesignator=C85
+Added Component: Designator=C74(CAP_0805)
+Add component (AddParameter): Name = "Autor"; Value = "Цислав А.Н."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "09-05-2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GRM21BR61C106KE15L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "CHIP-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 мкФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Диэлектрик"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = "16 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температура"; Value = "-55...+85°C"; VariantName = "[No Variations]"
+Added Component: Designator=C75(CAP_0805)
+Add component (AddParameter): Name = "Autor"; Value = "Цислав А.Н."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "09-05-2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GRM21BR61C106KE15L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "CHIP-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 мкФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Диэлектрик"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = "16 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температура"; Value = "-55...+85°C"; VariantName = "[No Variations]"
+Added Component: Designator=C78(CAP_0805)
+Add component (AddParameter): Name = "Autor"; Value = "Цислав А.Н."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "09-05-2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GRM21BR61C106KE15L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "CHIP-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 мкФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Диэлектрик"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = "16 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температура"; Value = "-55...+85°C"; VariantName = "[No Variations]"
+Added Component: Designator=C79(CAP_0805)
+Add component (AddParameter): Name = "Autor"; Value = "Цислав А.Н."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "09-05-2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GRM21BR61C106KE15L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "CHIP-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 мкФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Диэлектрик"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = "16 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температура"; Value = "-55...+85°C"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3 Pin=C74-1
+Added Pin To Net: NetName=GND Pin=C74-2
+Added Pin To Net: NetName=+3.3 Pin=C75-1
+Added Pin To Net: NetName=GND Pin=C75-2
+Added Pin To Net: NetName=+3.3 Pin=C78-1
+Added Pin To Net: NetName=GND Pin=C78-2
+Added Pin To Net: NetName=+3.3 Pin=C79-1
+Added Pin To Net: NetName=GND Pin=C79-2
+Added Pin To Net: NetName=+3.3 Pin=X17-72
+Added Pin To Net: NetName=+3.3 Pin=X17-74
+Change Net Name : Old Net Name=NetC80_1 New Net Name=NetC84_1
+Added Member To Class: ClassName=External interface Member=Component C51
+Added Member To Class: ClassName=External interface Member=Component C53
+Added Member To Class: ClassName=External interface Member=Component C54
+Added Member To Class: ClassName=Power Member=Component C55
+Added Member To Class: ClassName=Power Member=Component C57
+Added Member To Class: ClassName=Power Member=Component C59
+Added Member To Class: ClassName=Power Member=Component C61
+Added Member To Class: ClassName=Power Member=Component C62
+Added Member To Class: ClassName=Power Member=Component C64
+Added Member To Class: ClassName=Power Member=Component C66
+Added Member To Class: ClassName=Power Member=Component C68
+Added Member To Class: ClassName=Power Member=Component C71
+Added Member To Class: ClassName=Power Member=Component C73
+Added Member To Class: ClassName=M.2 Wi-Fi Member=Component C75
+Added Member To Class: ClassName=M.2 Wi-Fi Member=Component C76
+Added Member To Class: ClassName=M.2 Wi-Fi Member=Component C77
+Added Member To Class: ClassName=M.2 Wi-Fi Member=Component C78
+Added Member To Class: ClassName=M.2 Wi-Fi Member=Component C79
+Added Member To Class: ClassName=Clock buffer Member=Component C81
+Added Member To Class: ClassName=Clock buffer Member=Component C83
+Added Member To Class: ClassName=Clock buffer Member=Component C85
+Added Member To Class: ClassName=Power Member=Component R84 STD_RES
+Added Member To Class: ClassName=Power Member=Component R85 STD_RES
+Added Member To Class: ClassName=Power Member=Component R87 STD_RES
+Added Member To Class: ClassName=Power Member=Component R89 STD_RES
+Added Member To Class: ClassName=Power Member=Component R91 STD_RES
+Added Member To Class: ClassName=Power Member=Component R94 STD_RES
+Added Member To Class: ClassName=Power Member=Component R96 STD_RES
+Added Member To Class: ClassName=Power Member=Component R98 STD_RES
+Added Member To Class: ClassName=M.2 Wi-Fi Member=Component R101 STD_RES
+Added Member To Class: ClassName=M.2 Wi-Fi Member=Component R103 STD_RES
+Added Member To Class: ClassName=Clock buffer Member=Component R105 STD_RES
+Added Member To Class: ClassName=Clock buffer Member=Component R107 STD_RES
+Added Member To Class: ClassName=Clock buffer Member=Component R109 STD_RES
+Added Member To Class: ClassName=Clock buffer Member=Component R112 STD_RES
+Added Member To Class: ClassName=Clock buffer Member=Component R114 STD_RES
+Added Member To Class: ClassName=Clock buffer Member=Component R116 STD_RES
+Added Member To Class: ClassName=Clock buffer Member=Component R118 STD_RES

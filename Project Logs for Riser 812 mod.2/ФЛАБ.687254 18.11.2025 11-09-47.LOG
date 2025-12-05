@@ -1,0 +1,463 @@
+Removed Pin From Net: NetName=GND Pin=C52-1
+Removed Pin From Net: NetName=GNDG Pin=C52-2
+Removed Pin From Net: NetName=GND Pin=R85-1
+Removed Pin From Net: NetName=GNDG Pin=R85-2
+Removed Pin From Net: NetName=+12 Pin=R94-2
+Removed Pin From Net: NetName=+12 Pin=VD8-1
+Removed Pin From Net: NetName=GNDG Pin=X14-0
+Removed Pin From Net: NetName=GNDG Pin=X14-0
+Removed Pin From Net: NetName=GNDG Pin=X14-0
+Removed Pin From Net: NetName=GNDG Pin=X14-0
+Removed Pin From Net: NetName=NetR80_2 Pin=X14-4
+Removed Pin From Net: NetName=GND Pin=X14-6
+Removed Pin From Net: NetName=GND Pin=X14-10
+Removed Member From Class: ClassName=External interface Member=C56
+Removed Member From Class: ClassName=External interface Member=R85
+Change Component Footprint: Designator=X14 Old Footprint=LPJ0049CNL New Footprint=RC01835
+Change Component Footprint: Designator=VD8 Old Footprint=TO277A New Footprint=SMC
+Change Component Comment : Designator=X14 Old Comment=LPJ0049CNL New Comment=RC01835
+Change Component Designator: OldDesignator=C53 NewDesignator=C52
+Change Component Designator: OldDesignator=C54 NewDesignator=C53
+Change Component Designator: OldDesignator=C55 NewDesignator=C54
+Change Component Designator: OldDesignator=C56 NewDesignator=C55
+Change Component Designator: OldDesignator=C57 NewDesignator=C56
+Change Component Designator: OldDesignator=C58 NewDesignator=C57
+Change Component Designator: OldDesignator=C59 NewDesignator=C58
+Change Component Designator: OldDesignator=C60 NewDesignator=C59
+Change Component Designator: OldDesignator=C61 NewDesignator=C60
+Change Component Designator: OldDesignator=C62 NewDesignator=C61
+Change Component Designator: OldDesignator=C63 NewDesignator=C62
+Change Component Designator: OldDesignator=C64 NewDesignator=C71
+Change Component Designator: OldDesignator=C65 NewDesignator=C72
+Change Component Designator: OldDesignator=C66 NewDesignator=C73
+Change Component Designator: OldDesignator=C67 NewDesignator=C74
+Change Component Designator: OldDesignator=C68 NewDesignator=C75
+Change Component Designator: OldDesignator=C69 NewDesignator=C76
+Change Component Designator: OldDesignator=C70 NewDesignator=C77
+Change Component Designator: OldDesignator=C71 NewDesignator=C78
+Change Component Designator: OldDesignator=C72 NewDesignator=C79
+Change Component Designator: OldDesignator=C73 NewDesignator=C80
+Change Component Designator: OldDesignator=C74 NewDesignator=C81
+Change Component Designator: OldDesignator=C75 NewDesignator=C82
+Change Component Designator: OldDesignator=D4 NewDesignator=D5
+Change Component Designator: OldDesignator=D5 NewDesignator=D6
+Change Component Designator: OldDesignator=HL8 NewDesignator=HL9
+Change Component Designator: OldDesignator=L5 NewDesignator=L6
+Change Component Designator: OldDesignator=R81 NewDesignator=R82
+Change Component Designator: OldDesignator=R86 NewDesignator=R85
+Change Component Designator: OldDesignator=R87 NewDesignator=R86
+Change Component Designator: OldDesignator=R88 NewDesignator=R87
+Change Component Designator: OldDesignator=R89 NewDesignator=R88
+Change Component Designator: OldDesignator=R90 NewDesignator=R89
+Change Component Designator: OldDesignator=R91 NewDesignator=R90
+Change Component Designator: OldDesignator=R92 NewDesignator=R91
+Change Component Designator: OldDesignator=R93 NewDesignator=R92
+Change Component Designator: OldDesignator=R94 NewDesignator=R101
+Change Component Designator: OldDesignator=R95 NewDesignator=R103
+Change Component Designator: OldDesignator=R96 NewDesignator=R104
+Change Component Designator: OldDesignator=R97 NewDesignator=R105
+Change Component Designator: OldDesignator=R98 NewDesignator=R106
+Change Component Designator: OldDesignator=R99 NewDesignator=R107
+Change Component Designator: OldDesignator=R100 NewDesignator=R108
+Change Component Designator: OldDesignator=R101 NewDesignator=R109
+Change Component Designator: OldDesignator=R102 NewDesignator=R110
+Change Component Designator: OldDesignator=R103 NewDesignator=R111
+Change Component Designator: OldDesignator=R104 NewDesignator=R112
+Change Component Designator: OldDesignator=R105 NewDesignator=R113
+Change Component Designator: OldDesignator=R106 NewDesignator=R114
+Change Component Designator: OldDesignator=R107 NewDesignator=R115
+Change Component Designator: OldDesignator=R108 NewDesignator=R116
+Change Component Designator: OldDesignator=R109 NewDesignator=R117
+Change Component Designator: OldDesignator=R110 NewDesignator=R118
+Change Component Designator: OldDesignator=R111 NewDesignator=R119
+Change Component Designator: OldDesignator=R112 NewDesignator=R120
+Change Component Designator: OldDesignator=R113 NewDesignator=R121
+Change Component Designator: OldDesignator=X16 NewDesignator=X17
+Change component parameters: Designator = "VD8" ("VD8"); Footprint = "TO277A"; UniqueID = "\ODSXAAOI\RMBVPZYX" ("\ODSXAAOI\RMBVPZYX")
+Change component parameters (AddParameter): Name = "Autor"; Value = "Admin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "5 А"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Data"; Value = "06-29-2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "55"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Diodes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "B560C-13-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Diode Schottky"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_direct"; Value = "700 мВ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_reverse"; Value = "60 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Температура"; Value = "-40...+85°C"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X14" ("X14"); Footprint = "LPJ0049CNL"; UniqueID = "\CTRGZTCN\DZQJSGQG" ("\CTRGZTCN\DZQJSGQG")
+Change component parameters (AddParameter): Name = "Autor"; Value = "Admin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact"; Value = "12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "1 А"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Data"; Value = "08-12-2025"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "482"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "RCH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting"; Value = "Сквозной"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "RC01835"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.04 мм"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "LAN"; VariantName = "[No Variations]"
+Added Component: Designator=C63(CAP_0402)
+Add component (AddParameter): Name = "Autor"; Value = "Admin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "10-04-2024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "357"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0402KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "CHIP-0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1 мкФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Диэлектрик"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = "50 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температура"; Value = "-55...+85°C"; VariantName = "[No Variations]"
+Added Component: Designator=C64(CAP_1206)
+Add component (AddParameter): Name = "Autor"; Value = "Admin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "10-01-2024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "355"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GRM31CR72A225KA73L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "CHIP-1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2 мкФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Диэлектрик"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = "100 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температура"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=C65(CAP_1206)
+Add component (AddParameter): Name = "Autor"; Value = "Admin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "10-01-2024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "355"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GRM31CR72A225KA73L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "CHIP-1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2 мкФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Диэлектрик"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = "100 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температура"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=C66(CAP_0805)
+Add component (AddParameter): Name = "Autor"; Value = "Admin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "11-23-2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "268"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GRM21BR60J476ME15L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "CHIP-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47 мкФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Диэлектрик"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = "6.3 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температура"; Value = "-55...+85°C"; VariantName = "[No Variations]"
+Added Component: Designator=C67(CAP_0805)
+Add component (AddParameter): Name = "Autor"; Value = "Admin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "11-23-2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "268"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GRM21BR60J476ME15L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "CHIP-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47 мкФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Диэлектрик"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = "6.3 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температура"; Value = "-55...+85°C"; VariantName = "[No Variations]"
+Added Component: Designator=C68(CAP_0402)
+Add component (AddParameter): Name = "Autor"; Value = "Admin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "11-12-2024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "375"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0402KRX7R8BB682"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "CHIP-0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "6.8 нФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Диэлектрик"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = "50 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температура"; Value = "-55...+85°C"; VariantName = "[No Variations]"
+Added Component: Designator=C69(CAP_0402)
+Add component (AddParameter): Name = "Autor"; Value = "Admin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "08-21-2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0402JRNPO9BN390"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "CHIP-0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "39 пФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Диэлектрик"; Value = "NPO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = "50 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температура"; Value = "-55...+85°C"; VariantName = "[No Variations]"
+Added Component: Designator=C70(CAP_1812)
+Add component (AddParameter): Name = "Autor"; Value = "Admin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "11-08-2023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "339"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC1812JKNPOEBN221"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "CHIP-1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220 пФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Диэлектрик"; Value = "NPO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = "3000 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температура"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=D4(HSOIC-8_EP)
+Add component (AddParameter): Name = "Autor"; Value = "Admin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3.5 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "09-29-2024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "770"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "TPS54360DDA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DC/DC Step-Down"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.5 V to 60 V Input, 3.5 A, Step Down DC-DC Converter with Eco-mode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "60В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температура"; Value = "-40...+85°C"; VariantName = "[No Variations]"
+Added Component: Designator=HL8(LED_0603_GREEN)
+Add component (AddParameter): Name = "Autor"; Value = "Admin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "20 мА GREEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "08-27-2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "KPH-1608SGD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_direct"; Value = "2 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температура"; Value = "-40...+85°C"; VariantName = "[No Variations]"
+Added Component: Designator=L5(MWSA0603S)
+Add component (AddParameter): Name = "Autor"; Value = "Admin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "5 А"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "10-01-2024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "233"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SUNLORD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "WSA0603S-8R2MT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "MWSA0603S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "8.2 мкГн"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температура"; Value = "-40...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=R81(RES_0402)
+Add component (AddParameter): Name = "Autor"; Value = "Цислав А.Н."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "02-03-2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "338"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0402JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "CHIP-0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 кОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температура"; Value = "-55...+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТКС"; Value = "100 ppm/K"; VariantName = "[No Variations]"
+Added Component: Designator=R93(RES_0402)
+Add component (AddParameter): Name = "Autor"; Value = "Admin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "11-17-2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "620"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0402FR-07523K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "CHIP-0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "523 кОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температура"; Value = "-55...+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТКС"; Value = "100 ppm/K"; VariantName = "[No Variations]"
+Added Component: Designator=R94(RES_0402)
+Add component (AddParameter): Name = "Autor"; Value = "Цислав А.Н."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "02-03-2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "435"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0402FR-0733KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "CHIP-0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33 кОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температура"; Value = "-55...+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТКС"; Value = "100 ppm/K"; VariantName = "[No Variations]"
+Added Component: Designator=R95(RES_0603)
+Add component (AddParameter): Name = "Autor"; Value = "Admin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "11-15-2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "647"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0603FR-07590K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "CHIP-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "590 кОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температура"; Value = "-55...+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТКС"; Value = "100 ppm/K"; VariantName = "[No Variations]"
+Added Component: Designator=R96(RES_0402)
+Add component (AddParameter): Name = "Autor"; Value = "Цислав А.Н."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "02-03-2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "313"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0402FR-07240RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "CHIP-0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "240 Ом"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температура"; Value = "-55...+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТКС"; Value = "100 ppm/K"; VariantName = "[No Variations]"
+Added Component: Designator=R97(RES_0603)
+Add component (AddParameter): Name = "Autor"; Value = "Цислав А.Н."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "09-05-2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "70"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0603FR-0786R6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "CHIP-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "86,6 Ом"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температура"; Value = "-55...+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТКС"; Value = "100 ppm/K"; VariantName = "[No Variations]"
+Added Component: Designator=R98(RES_0402)
+Add component (AddParameter): Name = "Autor"; Value = "Цислав А.Н."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "02-03-2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "419"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0402FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "CHIP-0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13 кОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температура"; Value = "-55...+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТКС"; Value = "100 ppm/K"; VariantName = "[No Variations]"
+Added Component: Designator=R99(RES_0603)
+Add component (AddParameter): Name = "Autor"; Value = "Цислав А.Н."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "09-05-2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "224"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0603FR-07162K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "CHIP-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "162 кОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температура"; Value = "-55...+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТКС"; Value = "100 ppm/K"; VariantName = "[No Variations]"
+Added Component: Designator=R100(RES_0402)
+Add component (AddParameter): Name = "Autor"; Value = "Цислав А.Н."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "02-03-2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "412"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "CHIP-0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 кОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температура"; Value = "-55...+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТКС"; Value = "100 ppm/K"; VariantName = "[No Variations]"
+Added Component: Designator=R102(RES_1206)
+Add component (AddParameter): Name = "Autor"; Value = "Admin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "11-08-2023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "731"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC1206FR-07910KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "CHIP-1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "910 кОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температура"; Value = "-55...+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТКС"; Value = "100 ppm/K"; VariantName = "[No Variations]"
+Added Component: Designator=X16(LPJ0049CNL)
+Add component (AddParameter): Name = "Autor"; Value = "Admin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "0.35А"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "11-13-2025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "494"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "LINK-PP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = "Сквозной"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LPJ0049CNL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54 мм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "RJ-45"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C64-2
+Added Pin To Net: NetName=GND Pin=C65-2
+Added Pin To Net: NetName=GND Pin=C66-2
+Added Pin To Net: NetName=GND Pin=C67-2
+Added Pin To Net: NetName=GND Pin=C68-2
+Added Pin To Net: NetName=GND Pin=C69-2
+Added Pin To Net: NetName=GND Pin=C70-1
+Added Pin To Net: NetName=GNDG Pin=C70-2
+Added Pin To Net: NetName=GND Pin=D4-7
+Added Pin To Net: NetName=GND Pin=D4-9
+Added Pin To Net: NetName=GND Pin=D4-9
+Added Pin To Net: NetName=GND Pin=HL8-2
+Added Pin To Net: NetName=GND Pin=R97-1
+Added Pin To Net: NetName=GND Pin=R99-1
+Added Pin To Net: NetName=GND Pin=R100-1
+Added Pin To Net: NetName=GND Pin=R102-1
+Added Pin To Net: NetName=GNDG Pin=R102-2
+Added Pin To Net: NetName=GND Pin=VD8-2
+Added Pin To Net: NetName=NetR80_2 Pin=X14-3
+Added Pin To Net: NetName=GND Pin=X14-4
+Added Pin To Net: NetName=GND Pin=X14-13
+Added Pin To Net: NetName=GND Pin=X14-13
+Added Pin To Net: NetName=+12 Pin=X15-5
+Added Pin To Net: NetName=+12 Pin=X15-6
+Added Pin To Net: NetName=+12 Pin=X15-7
+Added Pin To Net: NetName=+12 Pin=X15-8
+Added Pin To Net: NetName=GNDG Pin=X16-0
+Added Pin To Net: NetName=GNDG Pin=X16-0
+Added Pin To Net: NetName=GNDG Pin=X16-0
+Added Pin To Net: NetName=GNDG Pin=X16-0
+Added Pin To Net: NetName=GND Pin=X16-10
+Change Net Name : Old Net Name=NetC53_1 New Net Name=NetC52_1
+Change Net Name : Old Net Name=NetC57_1 New Net Name=NetC56_1
+Change Net Name : Old Net Name=NetC57_2 New Net Name=NetC56_2
+Change Net Name : Old Net Name=NetC62_1 New Net Name=NetC61_1
+Change Net Name : Old Net Name=NetC63_1 New Net Name=NetC62_1
+Change Net Name : Old Net Name=NetC74_1 New Net Name=NetC81_1
+Change Net Name : Old Net Name=NetD5_10 New Net Name=NetD6_10
+Change Net Name : Old Net Name=NetD5_11 New Net Name=NetD6_11
+Change Net Name : Old Net Name=NetD5_31 New Net Name=NetD6_31
+Change Net Name : Old Net Name=NetHL8_1 New Net Name=NetHL9_1
+Change Net Name : Old Net Name=NetR95_1 New Net Name=NetR103_1
+Change Net Name : Old Net Name=NetR96_1 New Net Name=NetR104_1
+Change Net Name : Old Net Name=NetR97_1 New Net Name=NetR105_1
+Added Pin To Net: NetName=NetC63_1 Pin=C63-1
+Added Pin To Net: NetName=NetC63_1 Pin=D4-1
+Added Net: Name=NetC63_1
+Added Pin To Net: NetName=NetC63_2 Pin=C63-2
+Added Pin To Net: NetName=NetC63_2 Pin=D4-8
+Added Pin To Net: NetName=NetC63_2 Pin=L5-1
+Added Pin To Net: NetName=NetC63_2 Pin=VD8-1
+Added Net: Name=NetC63_2
+Added Pin To Net: NetName=NetC64_1 Pin=C64-1
+Added Pin To Net: NetName=NetC64_1 Pin=C65-1
+Added Pin To Net: NetName=NetC64_1 Pin=D4-2
+Added Pin To Net: NetName=NetC64_1 Pin=R93-2
+Added Pin To Net: NetName=NetC64_1 Pin=R101-2
+Added Pin To Net: NetName=NetC64_1 Pin=X16-9
+Added Net: Name=NetC64_1
+Added Pin To Net: NetName=NetC66_1 Pin=C66-1
+Added Pin To Net: NetName=NetC66_1 Pin=C67-1
+Added Pin To Net: NetName=NetC66_1 Pin=L5-2
+Added Pin To Net: NetName=NetC66_1 Pin=R94-2
+Added Pin To Net: NetName=NetC66_1 Pin=R95-2
+Added Pin To Net: NetName=NetC66_1 Pin=R96-2
+Added Pin To Net: NetName=NetC66_1 Pin=VD7-2
+Added Pin To Net: NetName=NetC66_1 Pin=VD7-2
+Added Net: Name=NetC66_1
+Added Pin To Net: NetName=NetC68_1 Pin=C68-1
+Added Pin To Net: NetName=NetC68_1 Pin=R98-1
+Added Net: Name=NetC68_1
+Added Pin To Net: NetName=NetC69_1 Pin=C69-1
+Added Pin To Net: NetName=NetC69_1 Pin=D4-6
+Added Pin To Net: NetName=NetC69_1 Pin=R98-2
+Added Net: Name=NetC69_1
+Added Pin To Net: NetName=NetD4_3 Pin=D4-3
+Added Pin To Net: NetName=NetD4_3 Pin=R93-1
+Added Pin To Net: NetName=NetD4_3 Pin=R97-2
+Added Net: Name=NetD4_3
+Added Pin To Net: NetName=NetD4_4 Pin=D4-4
+Added Pin To Net: NetName=NetD4_4 Pin=R99-2
+Added Net: Name=NetD4_4
+Added Pin To Net: NetName=NetD4_5 Pin=D4-5
+Added Pin To Net: NetName=NetD4_5 Pin=R94-1
+Added Pin To Net: NetName=NetD4_5 Pin=R95-1
+Added Pin To Net: NetName=NetD4_5 Pin=R100-2
+Added Net: Name=NetD4_5
+Added Pin To Net: NetName=NetHL8_1 Pin=HL8-1
+Added Pin To Net: NetName=NetHL8_1 Pin=R96-1
+Added Net: Name=NetHL8_1
+Added Pin To Net: NetName=NetR81_1 Pin=R81-1
+Added Pin To Net: NetName=NetR81_1 Pin=X1-33
+Added Net: Name=NetR81_1
+Added Pin To Net: NetName=NetR81_2 Pin=R81-2
+Added Pin To Net: NetName=NetR81_2 Pin=X14-6
+Added Net: Name=NetR81_2
+Added Member To Class: ClassName=Power Member=Component C63
+Added Member To Class: ClassName=Power Member=Component C68
+Added Member To Class: ClassName=Power Member=Component C69
+Added Member To Class: ClassName=Power Member=Component C70
+Added Member To Class: ClassName=Power Member=Component C71
+Added Member To Class: ClassName=Power Member=Component C72
+Added Member To Class: ClassName=Power Member=Component C73
+Added Member To Class: ClassName=Power Member=Component C74
+Added Member To Class: ClassName=Power Member=Component D5 GM1117-1.8ST3R
+Added Member To Class: ClassName=Power Member=Component HL9 XL-1608UBC-04
+Added Member To Class: ClassName=Power Member=Component L5 STD_IND
+Added Member To Class: ClassName=Power Member=Component R93 STD_RES
+Added Member To Class: ClassName=Power Member=Component R95 STD_RES
+Added Member To Class: ClassName=Power Member=Component R96 STD_RES
+Added Member To Class: ClassName=Power Member=Component R97 STD_RES
+Added Member To Class: ClassName=Power Member=Component R98 STD_RES
+Added Member To Class: ClassName=Power Member=Component R99 STD_RES
+Added Member To Class: ClassName=Power Member=Component R100 STD_RES
+Added Member To Class: ClassName=Power Member=Component R101 STD_RES
+Added Member To Class: ClassName=Power Member=Component R102 STD_RES
+Added Member To Class: ClassName=Power Member=Component X16 LPJ0049CNL

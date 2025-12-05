@@ -1,0 +1,153 @@
+Removed Pin From Net: NetName=NetD4_5 Pin=R95-1
+Removed Pin From Net: NetName=NetHL8_1 Pin=R96-1
+Removed Pin From Net: NetName=NetC66_1 Pin=R96-2
+Removed Pin From Net: NetName=GND Pin=X14-13
+Removed Pin From Net: NetName=GND Pin=X14-13
+Removed Member From Class: ClassName=Power Member=C55
+Removed Member From Class: ClassName=Power Member=C75
+Removed Member From Class: ClassName=Power Member=C76
+Removed Member From Class: ClassName=Power Member=C77
+Removed Member From Class: ClassName=Power Member=C78
+Removed Member From Class: ClassName=Power Member=C79
+Removed Member From Class: ClassName=Power Member=C80
+Removed Member From Class: ClassName=Power Member=C81
+Removed Member From Class: ClassName=Power Member=D6
+Removed Member From Class: ClassName=Power Member=L6
+Removed Member From Class: ClassName=Power Member=R114
+Removed Member From Class: ClassName=Power Member=R115
+Removed Member From Class: ClassName=Power Member=R116
+Removed Member From Class: ClassName=Power Member=R117
+Removed Member From Class: ClassName=Power Member=R118
+Removed Member From Class: ClassName=M.2 Wi-Fi Member=R119
+Removed Member From Class: ClassName=Power Member=R119
+Removed Member From Class: ClassName=M.2 Wi-Fi Member=R120
+Removed Member From Class: ClassName=Power Member=R120
+Removed Member From Class: ClassName=M.2 Wi-Fi Member=R121
+Removed Member From Class: ClassName=Power Member=R121
+Removed Member From Class: ClassName=Power Member=X17
+Change Component Footprint: Designator=C63 Old Footprint=CAP_0402 New Footprint=CAP_0402
+Change Component Footprint: Designator=C68 Old Footprint=CAP_0402 New Footprint=CAP_0402
+Change Component Footprint: Designator=C69 Old Footprint=CAP_0402 New Footprint=CAP_0402
+Change Component Footprint: Designator=X14 Old Footprint=RC01835 New Footprint=DS1126-S80BP
+Change Component Footprint: Designator=R81 Old Footprint=RES_0402 New Footprint=RES_0402
+Change Component Footprint: Designator=R93 Old Footprint=RES_0402 New Footprint=RES_0402
+Change Component Footprint: Designator=R98 Old Footprint=RES_0402 New Footprint=RES_0402
+Change Component Footprint: Designator=R100 Old Footprint=RES_0402 New Footprint=RES_0402
+Change Component Footprint: Designator=R94 Old Footprint=RES_0402 New Footprint=RES_0603
+Change Component Footprint: Designator=R97 Old Footprint=RES_0603 New Footprint=RES_0603
+Change Component Footprint: Designator=R99 Old Footprint=RES_0603 New Footprint=RES_0603
+Change Component Footprint: Designator=R95 Old Footprint=RES_0603 New Footprint=RES_0402
+Change Component Footprint: Designator=R102 Old Footprint=RES_1206 New Footprint=RES_1206
+Change Component Comment : Designator=X14 Old Comment=RC01835 New Comment=DS1126-S80BP
+Change Component Designator: OldDesignator=R97 NewDesignator=R96
+Change Component Designator: OldDesignator=R98 NewDesignator=R97
+Change Component Designator: OldDesignator=R99 NewDesignator=R98
+Change Component Designator: OldDesignator=R100 NewDesignator=R99
+Change Component Designator: OldDesignator=R101 NewDesignator=R100
+Change Component Designator: OldDesignator=R102 NewDesignator=R101
+Change Component Designator: OldDesignator=R103 NewDesignator=R102
+Change Component Designator: OldDesignator=R104 NewDesignator=R103
+Change Component Designator: OldDesignator=R105 NewDesignator=R104
+Change Component Designator: OldDesignator=R106 NewDesignator=R105
+Change Component Designator: OldDesignator=R107 NewDesignator=R106
+Change Component Designator: OldDesignator=R108 NewDesignator=R107
+Change Component Designator: OldDesignator=R109 NewDesignator=R108
+Change Component Designator: OldDesignator=R110 NewDesignator=R109
+Change Component Designator: OldDesignator=R111 NewDesignator=R110
+Change Component Designator: OldDesignator=R112 NewDesignator=R111
+Change Component Designator: OldDesignator=R113 NewDesignator=R112
+Change Component Designator: OldDesignator=R114 NewDesignator=R113
+Change Component Designator: OldDesignator=R115 NewDesignator=R114
+Change Component Designator: OldDesignator=R116 NewDesignator=R115
+Change Component Designator: OldDesignator=R117 NewDesignator=R116
+Change Component Designator: OldDesignator=R118 NewDesignator=R117
+Change Component Designator: OldDesignator=R119 NewDesignator=R118
+Change Component Designator: OldDesignator=R120 NewDesignator=R119
+Change Component Designator: OldDesignator=R121 NewDesignator=R120
+Change component parameters: Designator = "R94" ("R94"); Footprint = "RES_0402"; UniqueID = "\ODSXAAOI\OUNQCRCP" ("\ODSXAAOI\OUNQCRCP")
+Change component parameters (AddParameter): Name = "Autor"; Value = "Цислав А.Н."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Data"; Value = "09-05-2013"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "219"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "RC0603FR-07110K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CHIP-0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "110 кОм"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Температура"; Value = "-55...+85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ТКС"; Value = "100 ppm/K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R95" ("R95"); Footprint = "RES_0603"; UniqueID = "\ODSXAAOI\OFFQDMUZ" ("\ODSXAAOI\OFFQDMUZ")
+Change component parameters (AddParameter): Name = "Autor"; Value = "Цислав А.Н."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Data"; Value = "02-03-2014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "338"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "RC0402JR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CHIP-0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кОм"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Температура"; Value = "-55...+155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ТКС"; Value = "100 ppm/K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X14" ("X14"); Footprint = "RC01835"; UniqueID = "\CTRGZTCN\ZXVAKIQD" ("\CTRGZTCN\ZXVAKIQD")
+Change component parameters (AddParameter): Name = "Autor"; Value = "Admin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "1 А"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Data"; Value = "04-04-2024"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "364"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting"; Value = "Сквозной"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "DS1126-S80BP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "1.27 мм"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "LAN"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetHL8_1 Pin=R95-1
+Added Pin To Net: NetName=GND Pin=X14-9
+Added Pin To Net: NetName=GND Pin=X14-9
+Change Net Name : Old Net Name=NetR103_1 New Net Name=NetR102_1
+Change Net Name : Old Net Name=NetR104_1 New Net Name=NetR103_1
+Change Net Name : Old Net Name=NetR105_1 New Net Name=NetR104_1
+Added Member To Class: ClassName=External interface Member=Component C52
+Added Member To Class: ClassName=External interface Member=Component C54
+Added Member To Class: ClassName=External interface Member=Component C55
+Added Member To Class: ClassName=Power Member=Component C56
+Added Member To Class: ClassName=Power Member=Component C58
+Added Member To Class: ClassName=Power Member=Component C60
+Added Member To Class: ClassName=Power Member=Component C62
+Added Member To Class: ClassName=Power Member=Component C63
+Added Member To Class: ClassName=Power Member=Component C64
+Added Member To Class: ClassName=Power Member=Component C65
+Added Member To Class: ClassName=Power Member=Component C66
+Added Member To Class: ClassName=Power Member=Component C67
+Added Member To Class: ClassName=Power Member=Component C68
+Added Member To Class: ClassName=Power Member=Component C69
+Added Member To Class: ClassName=Power Member=Component C70
+Added Member To Class: ClassName=Power Member=Component C72
+Added Member To Class: ClassName=Power Member=Component C74
+Added Member To Class: ClassName=Power Member=Component D4 TPS54360DDA
+Added Member To Class: ClassName=Power Member=Component D5 GM1117-1.8ST3R
+Added Member To Class: ClassName=Power Member=Component HL8 KPH-1608SGD
+Added Member To Class: ClassName=Power Member=Component L5 STD_IND
+Added Member To Class: ClassName=External interface Member=Component R81 STD_RES
+Added Member To Class: ClassName=External interface Member=Component R82 STD_RES
+Added Member To Class: ClassName=Power Member=Component R85 STD_RES
+Added Member To Class: ClassName=Power Member=Component R87 STD_RES
+Added Member To Class: ClassName=Power Member=Component R89 STD_RES
+Added Member To Class: ClassName=Power Member=Component R91 STD_RES
+Added Member To Class: ClassName=Power Member=Component R93 STD_RES
+Added Member To Class: ClassName=Power Member=Component R94 STD_RES
+Added Member To Class: ClassName=Power Member=Component R95 STD_RES
+Added Member To Class: ClassName=Power Member=Component R96 STD_RES
+Added Member To Class: ClassName=Power Member=Component R97 STD_RES
+Added Member To Class: ClassName=Power Member=Component R98 STD_RES
+Added Member To Class: ClassName=Power Member=Component R99 STD_RES
+Added Member To Class: ClassName=Power Member=Component R100 STD_RES
+Added Member To Class: ClassName=Power Member=Component R101 STD_RES
+Added Member To Class: ClassName=M.2 Wi-Fi Member=Component R102 STD_RES
+Added Member To Class: ClassName=M.2 Wi-Fi Member=Component R103 STD_RES
+Added Member To Class: ClassName=M.2 Wi-Fi Member=Component R104 STD_RES
+Added Member To Class: ClassName=Clock buffer Member=Component R105 STD_RES
+Added Member To Class: ClassName=Clock buffer Member=Component R106 STD_RES
+Added Member To Class: ClassName=Clock buffer Member=Component R107 STD_RES
+Added Member To Class: ClassName=Clock buffer Member=Component R108 STD_RES
+Added Member To Class: ClassName=Clock buffer Member=Component R109 STD_RES
+Added Member To Class: ClassName=Clock buffer Member=Component R110 STD_RES
+Added Member To Class: ClassName=Clock buffer Member=Component R111 STD_RES
+Added Member To Class: ClassName=Clock buffer Member=Component R112 STD_RES
+Added Member To Class: ClassName=Power Member=Component X16 LPJ0049CNL

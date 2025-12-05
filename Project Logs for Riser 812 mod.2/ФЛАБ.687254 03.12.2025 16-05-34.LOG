@@ -1,0 +1,197 @@
+Removed Pin From Net: NetName=NetD1_6 Pin=DD1-55
+Removed Pin From Net: NetName=NetD1_5 Pin=DD1-57
+Removed Pin From Net: NetName=I/O SIM1 Pin=R6-1
+Removed Pin From Net: NetName=I/O SIM2 Pin=R16-1
+Removed Pin From Net: NetName=GND Pin=X4-C1
+Removed Pin From Net: NetName=I/O SIM1 Pin=X4-C3
+Removed Pin From Net: NetName=CLK SIM1 Pin=X4-C6
+Removed Pin From Net: NetName=RESET SIM1 Pin=X4-C7
+Removed Pin From Net: NetName=VCC SIM1 Pin=X4-C8
+Removed Pin From Net: NetName=GND Pin=X8-C1
+Removed Pin From Net: NetName=I/O SIM2 Pin=X8-C3
+Removed Pin From Net: NetName=CLK SIM2 Pin=X8-C6
+Removed Pin From Net: NetName=RESET SIM2 Pin=X8-C7
+Removed Pin From Net: NetName=VCC SIM2 Pin=X8-C8
+Removed Pin From Net: NetName=NetD1_5 Pin=X9-4
+Removed Pin From Net: NetName=NetD1_6 Pin=X9-5
+Removed Pin From Net: NetName=GND Pin=X15-4
+Change Component Footprint: Designator=C58 Old Footprint=CAP_0805 New Footprint=CAP_1210
+Change Component Footprint: Designator=C59 Old Footprint=CAP_0805 New Footprint=CAP_1210
+Change Component Footprint: Designator=C65 Old Footprint=CAP_0805 New Footprint=CAP_1210
+Change Component Footprint: Designator=C66 Old Footprint=CAP_0805 New Footprint=CAP_1210
+Change Component Footprint: Designator=R86 Old Footprint=RES_0402 New Footprint=RES_0603
+Change Component Footprint: Designator=R94 Old Footprint=RES_0402 New Footprint=RES_0603
+Change Component Footprint: Designator=R90 Old Footprint=RES_0603 New Footprint=RES_0402
+Change Component Footprint: Designator=R97 Old Footprint=RES_0603 New Footprint=RES_0402
+Change component parameters: Designator = "C58" ("C58"); Footprint = "CAP_0805"; UniqueID = "\ODSXAAOI\MYCZIKID" ("\ODSXAAOI\MYCZIKID")
+Change component parameters (AddParameter): Name = "Autor"; Value = "Цислав А.Н."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Data"; Value = "09-05-2013"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "128"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "MURATA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "GRM32ER61C476ME15L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CHIP-1210"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47 мкФ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Диэлектрик"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Напряжение"; Value = "16 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Температура"; Value = "-55...+85°C"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C59" ("C59"); Footprint = "CAP_0805"; UniqueID = "\ODSXAAOI\TQFJJVGX" ("\ODSXAAOI\TQFJJVGX")
+Change component parameters (AddParameter): Name = "Autor"; Value = "Цислав А.Н."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Data"; Value = "09-05-2013"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "128"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "MURATA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "GRM32ER61C476ME15L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CHIP-1210"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47 мкФ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Диэлектрик"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Напряжение"; Value = "16 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Температура"; Value = "-55...+85°C"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C65" ("C65"); Footprint = "CAP_0805"; UniqueID = "\ODSXAAOI\BVOHLETF" ("\ODSXAAOI\BVOHLETF")
+Change component parameters (AddParameter): Name = "Autor"; Value = "Цислав А.Н."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Data"; Value = "09-05-2013"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "128"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "MURATA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "GRM32ER61C476ME15L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CHIP-1210"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47 мкФ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Диэлектрик"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Напряжение"; Value = "16 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Температура"; Value = "-55...+85°C"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C66" ("C66"); Footprint = "CAP_0805"; UniqueID = "\ODSXAAOI\IFHRUXTI" ("\ODSXAAOI\IFHRUXTI")
+Change component parameters (AddParameter): Name = "Autor"; Value = "Цислав А.Н."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Data"; Value = "09-05-2013"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "128"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "MURATA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "GRM32ER61C476ME15L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CHIP-1210"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47 мкФ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Диэлектрик"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Напряжение"; Value = "16 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Температура"; Value = "-55...+85°C"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R69" ("R69"); Footprint = "RES_0402"; UniqueID = "\CTRGZTCN\EJGDMWJQ" ("\CTRGZTCN\EJGDMWJQ")
+Change component parameters (AddParameter): Name = "Autor"; Value = "Цислав А.Н."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Data"; Value = "02-03-2014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "412"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CHIP-0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 кОм"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Температура"; Value = "-55...+155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ТКС"; Value = "100 ppm/K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R75" ("R75"); Footprint = "RES_0402"; UniqueID = "\CTRGZTCN\VXMTZFMM" ("\CTRGZTCN\VXMTZFMM")
+Change component parameters (AddParameter): Name = "Autor"; Value = "Цислав А.Н."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Data"; Value = "02-03-2014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "412"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CHIP-0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 кОм"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Температура"; Value = "-55...+155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ТКС"; Value = "100 ppm/K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R76" ("R76"); Footprint = "RES_0402"; UniqueID = "\CTRGZTCN\OAMCHKPT" ("\CTRGZTCN\OAMCHKPT")
+Change component parameters (AddParameter): Name = "Autor"; Value = "Цислав А.Н."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Data"; Value = "02-03-2014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "412"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CHIP-0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 кОм"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Температура"; Value = "-55...+155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ТКС"; Value = "100 ppm/K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R86" ("R86"); Footprint = "RES_0402"; UniqueID = "\ODSXAAOI\OSCVLERS" ("\ODSXAAOI\OSCVLERS")
+Change component parameters (AddParameter): Name = "Autor"; Value = "Цислав А.Н."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Data"; Value = "09-05-2013"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "219"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "RC0603FR-07110K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CHIP-0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "110 кОм"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Температура"; Value = "-55...+85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ТКС"; Value = "100 ppm/K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R90" ("R90"); Footprint = "RES_0603"; UniqueID = "\ODSXAAOI\BCRFHJNC" ("\ODSXAAOI\BCRFHJNC")
+Change component parameters (AddParameter): Name = "Autor"; Value = "Цислав А.Н."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Data"; Value = "02-03-2014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "420"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "RC0402FR-0715KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CHIP-0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "15 кОм"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Температура"; Value = "-55...+155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ТКС"; Value = "100 ppm/K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R94" ("R94"); Footprint = "RES_0402"; UniqueID = "\ODSXAAOI\QFNXMDJZ" ("\ODSXAAOI\QFNXMDJZ")
+Change component parameters (AddParameter): Name = "Autor"; Value = "Цислав А.Н."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Data"; Value = "09-05-2013"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "219"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "RC0603FR-07110K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CHIP-0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "110 кОм"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Температура"; Value = "-55...+85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ТКС"; Value = "100 ppm/K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R97" ("R97"); Footprint = "RES_0603"; UniqueID = "\ODSXAAOI\LYMVXRLF" ("\ODSXAAOI\LYMVXRLF")
+Change component parameters (AddParameter): Name = "Autor"; Value = "Цислав А.Н."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Data"; Value = "02-03-2014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "420"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "RC0402FR-0715KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "CHIP-0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "15 кОм"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Температура"; Value = "-55...+155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ТКС"; Value = "100 ppm/K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X4" ("X4"); Footprint = "SIM_MFF2"; UniqueID = "\NMNHOBOT\WYKWYGTE" ("\NMNHOBOT\WYKWYGTE")
+Change component parameters (AddParameter): Name = "Autor"; Value = "Admin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "100 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Data"; Value = "06-14-2019"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "259"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "E -"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "SIM_MFF2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "1.27 мм"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "SIM"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X8" ("X8"); Footprint = "SIM_MFF2"; UniqueID = "\MTRJKZZE\ZYFWVLTS" ("\MTRJKZZE\ZYFWVLTS")
+Change component parameters (AddParameter): Name = "Autor"; Value = "Admin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "100 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Data"; Value = "06-14-2019"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "259"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "E -"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting"; Value = "Поверхностный"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "SIM_MFF2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "1.27 мм"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "SIM"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR5_1 Pin=R6-1
+Added Pin To Net: NetName=NetR15_1 Pin=R16-1
+Added Pin To Net: NetName=VCC SIM1 Pin=X4-C1
+Added Pin To Net: NetName=NetR3_1 Pin=X4-C2
+Added Pin To Net: NetName=NetR4_1 Pin=X4-C3
+Added Pin To Net: NetName=GND Pin=X4-C5
+Added Pin To Net: NetName=NetR5_1 Pin=X4-C7
+Added Pin To Net: NetName=VCC SIM2 Pin=X8-C1
+Added Pin To Net: NetName=NetR13_1 Pin=X8-C2
+Added Pin To Net: NetName=NetR14_1 Pin=X8-C3
+Added Pin To Net: NetName=GND Pin=X8-C5
+Added Pin To Net: NetName=NetR15_1 Pin=X8-C7
+Added Pin To Net: NetName=+12 Pin=X15-4
+Change Net Name : Old Net Name=NetR3_1 New Net Name=RESET eSIM1
+Change Net Name : Old Net Name=NetR4_1 New Net Name=CLK eSIM1
+Change Net Name : Old Net Name=NetR5_1 New Net Name=I/O eSIM1
+Change Net Name : Old Net Name=NetR13_1 New Net Name=RESET eSIM2
+Change Net Name : Old Net Name=NetR14_1 New Net Name=CLK eSIM2
+Change Net Name : Old Net Name=NetR15_1 New Net Name=I/O eSIM2
+Added Pin To Net: NetName=SFP I2C SCL Pin=DD1-55
+Added Pin To Net: NetName=SFP I2C SCL Pin=X9-5
+Added Net: Name=SFP I2C SCL
+Added Pin To Net: NetName=SFP I2C SDA Pin=DD1-57
+Added Pin To Net: NetName=SFP I2C SDA Pin=X9-4
+Added Net: Name=SFP I2C SDA

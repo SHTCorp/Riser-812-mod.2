@@ -1,0 +1,15 @@
+Added Component: Designator=C47(CAP_0402)
+Add component (AddParameter): Name = "Autor"; Value = "Admin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "10-04-2024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "357"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0402KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "CHIP-0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1 мкФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Диэлектрик"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = "50 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Температура"; Value = "-55...+85°C"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3 Pin=C47-1
+Added Pin To Net: NetName=GND Pin=C47-2
+Added Member To Class: ClassName=External interface Member=Component C47

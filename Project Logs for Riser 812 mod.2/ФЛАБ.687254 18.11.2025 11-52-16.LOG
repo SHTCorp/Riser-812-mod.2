@@ -1,0 +1,17 @@
+Removed Member From Class: ClassName=M.2 Wi-Fi Member=R101
+Removed Member From Class: ClassName=Clock buffer Member=R104
+Added Member To Class: ClassName=Power Member=Component R96 STD_RES
+Added Member To Class: ClassName=Power Member=Component R97 STD_RES
+Added Member To Class: ClassName=Power Member=Component R99 STD_RES
+Added Member To Class: ClassName=Power Member=Component R100 STD_RES
+Added Member To Class: ClassName=Power Member=Component R101 STD_RES
+Added Member To Class: ClassName=M.2 Wi-Fi Member=Component R103 STD_RES
+Added Member To Class: ClassName=M.2 Wi-Fi Member=Component R104 STD_RES
+Added Member To Class: ClassName=Clock buffer Member=Component R105 STD_RES
+Added Member To Class: ClassName=Clock buffer Member=Component R107 STD_RES
+Added Member To Class: ClassName=Clock buffer Member=Component R109 STD_RES
+Added Member To Class: ClassName=Clock buffer Member=Component R111 STD_RES
+Added Member To Class: ClassName=Clock buffer Member=Component R113 STD_RES
+Added Member To Class: ClassName=Clock buffer Member=Component R115 STD_RES
+Added Member To Class: ClassName=Clock buffer Member=Component R117 STD_RES
+Added Member To Class: ClassName=Clock buffer Member=Component R119 STD_RES

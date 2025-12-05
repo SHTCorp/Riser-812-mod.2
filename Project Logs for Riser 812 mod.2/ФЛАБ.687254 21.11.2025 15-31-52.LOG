@@ -1,0 +1,5 @@
+Change Net Name : Old Net Name=Wi-Fi PCIe TX_N New Net Name=Wi-Fi PCIe TX int_N
+Change Net Name : Old Net Name=Wi-Fi PCIe TX_P New Net Name=Wi-Fi PCIe TX int_P
+Added Differential Pair: Name=Wi-Fi PCIe TX int
+Remove Class Member: Failed to remove class member
+Added Member To Class: ClassName=Z=100 Member=Wi-Fi PCIe TX int

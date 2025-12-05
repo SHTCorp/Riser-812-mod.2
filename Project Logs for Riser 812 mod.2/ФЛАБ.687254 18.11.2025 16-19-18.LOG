@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=C47 Old Footprint=CAP_0402 New Footprint=CAP_0402
+Change Class Name : Old Net Name=Z 100 New Net Name=Z = 100
+Removed Member From Class: ClassName=DIFF_100 Member=PCIe TX Wi-Fi ext
+Added Member To Class: ClassName=Z = 100 Member=Buffer CLK
+Added Member To Class: ClassName=Z = 100 Member=PCIe TX Wi-Fi ext
+Added Member To Class: ClassName=Z = 100 Member=SFP RD
+Added Member To Class: ClassName=Z = 100 Member=SFP TD

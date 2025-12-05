@@ -1,0 +1,4 @@
+PCIe  CLK 2=Buffer CLK P,Buffer CLK N
+PCIe SFP 3=SFP PCIe CLK P,SFP PCIe CLK N
+PCIe Wi-Fi 4=Wi-Fi CLK P,Wi-Fi CLK N
+PCIe Wi-Fi 5=CLKREQn

@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=NetR3_1 Pin=VD1-3
+Removed Pin From Net: NetName=NetR5_1 Pin=VD1-4
+Removed Pin From Net: NetName=VCC SIM1 Pin=VD1-5
+Removed Pin From Net: NetName=NetR13_1 Pin=VD2-3
+Removed Pin From Net: NetName=NetR15_1 Pin=VD2-4
+Removed Pin From Net: NetName=VCC SIM2 Pin=VD2-5
+Removed Member From Class: ClassName=External interface Member=R100
+Removed Member From Class: ClassName=External interface Member=R101
+Removed Member From Class: ClassName=M.2 Wi-Fi Member=R120
+Removed Member From Class: ClassName=Power Member=R120
+Removed Member From Class: ClassName=M.2 Wi-Fi Member=R121
+Change Component Footprint: Designator=R79 Old Footprint=RES_0402 New Footprint=RES_0402
+Change Component Footprint: Designator=R81 Old Footprint=RES_0402 New Footprint=RES_0402
+Added Pin To Net: NetName=NetR5_1 Pin=VD1-1
+Added Pin To Net: NetName=VCC SIM1 Pin=VD1-3
+Added Pin To Net: NetName=NetR3_1 Pin=VD1-4
+Added Pin To Net: NetName=NetR15_1 Pin=VD2-1
+Added Pin To Net: NetName=VCC SIM2 Pin=VD2-3
+Added Pin To Net: NetName=NetR13_1 Pin=VD2-4
+Added Member To Class: ClassName=External interface Member=Component R79 STD_RES
+Added Member To Class: ClassName=External interface Member=Component R81 STD_RES
+Added Member To Class: ClassName=External interface Member=Component R82 STD_RES
+Added Member To Class: ClassName=External interface Member=Component R83 STD_RES
+Added Member To Class: ClassName=External interface Member=Component R84 STD_RES
+Added Member To Class: ClassName=External interface Member=Component R85 STD_RES
+Added Member To Class: ClassName=Power Member=Component R86 STD_RES
+Added Member To Class: ClassName=Power Member=Component R87 STD_RES
+Added Member To Class: ClassName=Power Member=Component R88 STD_RES
+Added Member To Class: ClassName=Power Member=Component R89 STD_RES
+Added Member To Class: ClassName=Power Member=Component R90 STD_RES
+Added Member To Class: ClassName=Power Member=Component R91 STD_RES
+Added Member To Class: ClassName=Power Member=Component R92 STD_RES
+Added Member To Class: ClassName=Power Member=Component R93 STD_RES
+Added Member To Class: ClassName=Power Member=Component R94 STD_RES
+Added Member To Class: ClassName=Power Member=Component R95 STD_RES
+Added Member To Class: ClassName=Power Member=Component R96 STD_RES
+Added Member To Class: ClassName=Power Member=Component R97 STD_RES
+Added Member To Class: ClassName=Power Member=Component R98 STD_RES
+Added Member To Class: ClassName=Power Member=Component R99 STD_RES
+Added Member To Class: ClassName=Power Member=Component R102 STD_RES
+Added Member To Class: ClassName=M.2 Wi-Fi Member=Component R103 STD_RES
+Added Member To Class: ClassName=M.2 Wi-Fi Member=Component R104 STD_RES
+Added Member To Class: ClassName=M.2 Wi-Fi Member=Component R105 STD_RES
+Added Member To Class: ClassName=Clock buffer Member=Component R106 STD_RES
+Added Member To Class: ClassName=Clock buffer Member=Component R107 STD_RES
+Added Member To Class: ClassName=Clock buffer Member=Component R108 STD_RES
+Added Member To Class: ClassName=Clock buffer Member=Component R109 STD_RES
+Added Member To Class: ClassName=Clock buffer Member=Component R110 STD_RES
+Added Member To Class: ClassName=Clock buffer Member=Component R111 STD_RES
+Added Member To Class: ClassName=Clock buffer Member=Component R112 STD_RES
+Added Member To Class: ClassName=Clock buffer Member=Component R113 STD_RES
+Added Member To Class: ClassName=Clock buffer Member=Component R114 STD_RES
+Added Member To Class: ClassName=Clock buffer Member=Component R115 STD_RES
+Added Member To Class: ClassName=Clock buffer Member=Component R116 STD_RES
+Added Member To Class: ClassName=Clock buffer Member=Component R117 STD_RES
+Added Member To Class: ClassName=Clock buffer Member=Component R118 STD_RES
+Added Member To Class: ClassName=Clock buffer Member=Component R119 STD_RES

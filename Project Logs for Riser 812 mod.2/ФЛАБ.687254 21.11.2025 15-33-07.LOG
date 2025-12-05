@@ -1,0 +1,5 @@
+Change Net Name : Old Net Name=PCIE_CLK_N New Net Name=Buffer PCIE CLK_N
+Change Net Name : Old Net Name=PCIE_CLK_P New Net Name=Buffer PCIE CLK_P
+Added Differential Pair: Name=Buffer PCIE CLK
+Remove Class Member: Failed to remove class member
+Added Member To Class: ClassName=Z=100 Member=Buffer PCIE CLK

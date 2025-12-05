@@ -1,0 +1,19 @@
+Removed Member From Class: ClassName=M.2 Wi-Fi Member=C82
+Removed Member From Class: ClassName=M.2 Wi-Fi Member=C83
+Removed Member From Class: ClassName=M.2 Wi-Fi Member=C84
+Removed Member From Class: ClassName=M.2 Wi-Fi Member=C85
+Added Member To Class: ClassName=M.2 Wi-Fi Member=Component C74
+Added Member To Class: ClassName=M.2 Wi-Fi Member=Component C75
+Added Member To Class: ClassName=M.2 Wi-Fi Member=Component C76
+Added Member To Class: ClassName=M.2 Wi-Fi Member=Component C77
+Added Member To Class: ClassName=M.2 Wi-Fi Member=Component C78
+Added Member To Class: ClassName=M.2 Wi-Fi Member=Component C79
+Added Member To Class: ClassName=Clock buffer Member=Component C80
+Added Member To Class: ClassName=Clock buffer Member=Component C81
+Removed Member From Class: ClassName=Z = 100 Member=Buffer CLK
+Removed Member From Class: ClassName=Z = 100 Member=SFP RD
+Removed Member From Class: ClassName=Z = 100 Member=SFP TD
+Added Member To Class: ClassName=Z=100 Member=Buffer CLK
+Added Member To Class: ClassName=Z=100 Member=SFP RD
+Added Member To Class: ClassName=Z=100 Member=SFP TD
+Added Member To Class: ClassName=Z=100 Member=USB Wi-Fi

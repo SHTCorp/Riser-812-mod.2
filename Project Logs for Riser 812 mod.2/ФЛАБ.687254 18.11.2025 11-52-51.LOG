@@ -1,0 +1,18 @@
+Added Component: Designator=X14(DS1126-S80BP)
+Add component (AddParameter): Name = "Autor"; Value = "Admin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "1 А"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "04-04-2024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "364"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = "Сквозной"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "DS1126-S80BP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "1.27 мм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LAN"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR80_2 Pin=X14-3
+Added Pin To Net: NetName=GND Pin=X14-4
+Added Pin To Net: NetName=GND Pin=X14-5
+Added Pin To Net: NetName=NetR81_2 Pin=X14-6
+Added Pin To Net: NetName=GND Pin=X14-9
+Added Pin To Net: NetName=GND Pin=X14-9
+Added Member To Class: ClassName=External interface Member=Component X14 DS1126-S80BP

@@ -1,0 +1,150 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\n.gorin\Desktop\Projects\Riser 812 mod.2\‘À¿¡.687254.006.PcbDoc
+Date     : 05.12.2025
+Time     : 10:39:02
+
+Processing Rule : Clearance Constraint (Gap=0.15mm) (Disabled)(InNet('No Net')),(InNet('No Net'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.12mm) (All),(All)
+   Violation between Clearance Constraint: (Collision < 0.12mm) Between Hole of Pad X9-(15.85mm,35.9mm) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.12mm) Between Hole of Pad X9-(25.45mm,35.9mm) on Multi-Layer And Region (0 hole(s)) Top Layer 
+Rule Violations :2
+
+Processing Rule : Clearance Constraint (Gap=0.12mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.35mm) (Disabled)(InNet('No Net')),(InNet('No Net'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.3mm) (Disabled)(InNet('No Net')),(InNet('No Net'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.1mm) (Max=10mm) (Preferred=0.125mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.3mm) (Max=10mm) (Preferred=0.35mm) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.3mm) (Max=10mm) (Preferred=0.4mm) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.15mm) (Max=10mm) (Preferred=0.2mm) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.15mm) (Conductor Width=0.15mm) (Air Gap=0.15mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.2mm) (Conductor Width=0.2mm) (Air Gap=0.2mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.2mm) (Conductor Width=0.3mm) (Air Gap=0.3mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.2mm) (Conductor Width=0.35mm) (Air Gap=0.35mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.15mm) (Conductor Width=0.2mm) (Air Gap=0.2mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.2mm) (Conductor Width=0.2mm) (Air Gap=0.2mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.15mm) (Disabled)(IsVia)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.2mm) (Disabled)(IsPAD)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.15mm) (IsPAD)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.1mm) (IsVia)
+Rule Violations :0
+
+Processing Rule : Acute Angle Constraint (Minimum=35.000) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=5.9mm) (IsVia)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=5.9mm) (Disabled)(IsVia)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.6mm) (Max=5.9mm) (Disabled)(IsPad)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.25mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (0.0999mm (3.933mil) < 0.1mm (3.937mil)) Between Pad X13-A5(128.275mm,7.1mm) on Top Layer And Pad X13-B7(128.775mm,7.1mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.0999mm (3.933mil) < 0.1mm (3.937mil)) Between Pad X13-A6(129.275mm,7.1mm) on Top Layer And Pad X13-A7(129.775mm,7.1mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.0999mm (3.933mil) < 0.1mm (3.937mil)) Between Pad X13-A8(130.775mm,7.1mm) on Top Layer And Pad X13-B6(130.275mm,7.1mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.099997mm (3.9369mil) < 0.1mm (3.937mil)) Between Pad X17-38(113.95mm,60.521mm) on Top Layer And Pad X17-40(113.95mm,60.021mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.099997mm (3.9369mil) < 0.1mm (3.937mil)) Between Pad X17-66(113.95mm,53.521mm) on Top Layer And Pad X17-68(113.95mm,53.021mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.099997mm (3.9369mil) < 0.1mm (3.937mil)) Between Pad X3-11(122.125mm,80.7mm) on Top Layer And Pad X3-9(122.125mm,79.9mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.099997mm (3.9369mil) < 0.1mm (3.937mil)) Between Pad X3-33(122.125mm,92.7mm) on Top Layer And Pad X3-35(122.125mm,93.5mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.099997mm (3.9369mil) < 0.1mm (3.937mil)) Between Pad X3-44(113.925mm,97.1mm) on Top Layer And Pad X3-46(113.925mm,97.9mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.099997mm (3.9369mil) < 0.1mm (3.937mil)) Between Pad X3-47(122.125mm,98.3mm) on Top Layer And Pad X3-49(122.125mm,99.1mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.099997mm (3.9369mil) < 0.1mm (3.937mil)) Between Pad X7-11(64.125mm,80.7mm) on Top Layer And Pad X7-9(64.125mm,79.9mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.099997mm (3.9369mil) < 0.1mm (3.937mil)) Between Pad X7-33(64.125mm,92.7mm) on Top Layer And Pad X7-35(64.125mm,93.5mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.099997mm (3.9369mil) < 0.1mm (3.937mil)) Between Pad X7-44(55.925mm,97.1mm) on Top Layer And Pad X7-46(55.925mm,97.9mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.099997mm (3.9369mil) < 0.1mm (3.937mil)) Between Pad X7-47(64.125mm,98.3mm) on Top Layer And Pad X7-49(64.125mm,99.1mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+Rule Violations :13
+
+Processing Rule : Silk To Solder Mask (Clearance=0.15mm) (Disabled)(IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.15mm) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=1mm) (Disabled)(InxSignalClass('xWi-Fi TX'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=1mm) (Disabled)(InxSignalClass('xWi-Fi TX pas'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=1mm) (Disabled)(InxSignalClass('xWi-Fi TX int'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.5mm) (InDifferentialPairClass('All Differential Pairs'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=1mm) (Disabled)(InDifferentialPairClass('All Differential Pairs'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 15
+Waived Violations : 0
+Time Elapsed        : 00:00:11

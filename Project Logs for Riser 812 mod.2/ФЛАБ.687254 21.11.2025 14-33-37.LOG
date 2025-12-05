@@ -1,0 +1,55 @@
+Change Net Name : Old Net Name=Buffer CLK_N New Net Name=PCIE_CLK_N
+Change Net Name : Old Net Name=Buffer CLK_P New Net Name=PCIE_CLK_P
+Change Net Name : Old Net Name=CLK_N New Net Name=SFP CLK_N
+Change Net Name : Old Net Name=CLK_P New Net Name=SFP CLK_P
+Change Net Name : Old Net Name=DEBUG_CONSOLE_D_N New Net Name=CONSOLE int_D_N
+Change Net Name : Old Net Name=DEBUG_CONSOLE_D_P New Net Name=CONSOLE int_D_P
+Change Net Name : Old Net Name=PCIe CLK Wi-Fi_N New Net Name=Wi-Fi PCIe CLK_N
+Change Net Name : Old Net Name=PCIe CLK Wi-Fi_P New Net Name=Wi-Fi PCIe CLK_P
+Change Net Name : Old Net Name=PCIe RX Wi-Fi_N New Net Name=Wi-Fi PCIe RX_N
+Change Net Name : Old Net Name=PCIe RX Wi-Fi_P New Net Name=Wi-Fi PCIe RX_P
+Change Net Name : Old Net Name=PCIe TX Wi-Fi_N New Net Name=Wi-Fi PCIe TX_N
+Change Net Name : Old Net Name=PCIe TX Wi-Fi_P New Net Name=Wi-Fi PCIe TX_P
+Change Net Name : Old Net Name=PCIe TX Wi-Fi ext_N New Net Name=Wi-Fi PCIe TX ext_N
+Change Net Name : Old Net Name=PCIe TX Wi-Fi ext_P New Net Name=Wi-Fi PCIe TX ext_P
+Change Net Name : Old Net Name=RX EXT_N New Net Name=SFP RX EXT_N
+Change Net Name : Old Net Name=RX EXT_P New Net Name=SFP RX EXT_P
+Change Net Name : Old Net Name=RX INT_N New Net Name=SFP RX INT_N
+Change Net Name : Old Net Name=RX INT_P New Net Name=SFP RX INT_P
+Change Net Name : Old Net Name=TX EXT_N New Net Name=SFP TX EXT_N
+Change Net Name : Old Net Name=TX EXT_P New Net Name=SFP TX EXT_P
+Change Net Name : Old Net Name=TX INT_N New Net Name=SFP TX INT_N
+Change Net Name : Old Net Name=TX INT_P New Net Name=SFP TX INT_P
+Added Differential Pair: Name=CONSOLE int_D
+Added Differential Pair: Name=PCIE_CLK
+Added Differential Pair: Name=SFP CLK
+Added Differential Pair: Name=SFP RX EXT
+Added Differential Pair: Name=SFP RX INT
+Added Differential Pair: Name=SFP TX EXT
+Added Differential Pair: Name=SFP TX INT
+Added Differential Pair: Name=Wi-Fi PCIe CLK
+Added Differential Pair: Name=Wi-Fi PCIe RX
+Added Differential Pair: Name=Wi-Fi PCIe TX ext
+Added Differential Pair: Name=Wi-Fi PCIe TX
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Added Member To Class: ClassName=Z=90 Member=CONSOLE int_D
+Added Member To Class: ClassName=Z=100 Member=PCIE_CLK
+Added Member To Class: ClassName=Z=100 Member=SFP CLK
+Added Member To Class: ClassName=Z=100 Member=SFP RX EXT
+Added Member To Class: ClassName=Z=100 Member=SFP RX INT
+Added Member To Class: ClassName=Z=100 Member=SFP TX EXT
+Added Member To Class: ClassName=Z=100 Member=SFP TX INT
+Added Member To Class: ClassName=Z=100 Member=Wi-Fi PCIe CLK
+Added Member To Class: ClassName=Z=100 Member=Wi-Fi PCIe RX
+Added Member To Class: ClassName=Z=100 Member=Wi-Fi PCIe TX ext
+Added Member To Class: ClassName=Z=100 Member=Wi-Fi PCIe TX
